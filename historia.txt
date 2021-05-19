@@ -1,0 +1,2 @@
+Contenido de ejemplo, necesitas escribir algo para utilizar git en este archivo.
+Saludos!
