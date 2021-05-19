@@ -5,9 +5,23 @@ body {
     font-size: 16px;
 }
 
+#cabecera {
+    background: #33a;
+    color: #fff;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#cabecera #tagline {
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
 #container {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid #DDDDDD;
     margin: 0 auto;
@@ -15,4 +29,8 @@ body {
 
 #container h1 {
     font-size: 20px;
+}
+
+#post {
+    padding: 1em ;
 }
