@@ -43,6 +43,8 @@ body {
     height: 40px;
     display: flex;
     align-items: center;
+    justify-content: center;
+    color: white;
     font-size: 9px;
     font-weight: normal;
 }
