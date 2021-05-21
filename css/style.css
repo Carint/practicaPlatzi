@@ -37,7 +37,10 @@ body {
     padding: 1em ;
 }
 
-.cabecera__nav {
+.footer {
+    width: 100%;
+    background: #33a;
+    height: 40px;
     display: flex;
     align-items: center;
     font-size: 9px;
