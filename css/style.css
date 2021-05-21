@@ -34,3 +34,20 @@ body {
 #post {
     padding: 1em ;
 }
+
+.footer {
+    width: 100%;
+    background: #33a;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 10px;
+}
+
+.footer a{
+    text-decoration: none;
+    color: white;
+    font-size: 10px;
+}
