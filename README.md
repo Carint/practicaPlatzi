@@ -1,6 +1,10 @@
-Notas del curso de Git y Github de Platzi (README aun en construcción)
-=============
-Este resumen de apuntes se tomaron durante el curso, cada uno son apuntes personales que me ayudaran a estudiar. Se creo el siguiente README para ayudar a mas personas sobre el tema. Espero que sea de mucha ayuda!
+**Notas del curso de Git y Github de Platzi (README aun en construcción)**
+
+[TOC]
+
+Introducción
+-------------
+Curso tomado en [Platzi](https://platzi.com/clases/git-github/), aqui se expone una serie de notas personales tomadas del curso. La idea del README es ayudar a recordar una serie de temas importantes y ayudar a comprender el uso e importancia de dominar Git y Github.
 
 Configuración inicial
 -------------
@@ -97,11 +101,11 @@ Repositorio remoto
 
 Una buena practica antes de subir cambios es realizar un `$ git pull origin main` y luego el `$ git push origin master:main` por si se dieron cambios
 
-IGNORAR ARCHIVOS EN EL REPOSITORIO CON .gitignore
+Ignorar archivos
 -------------
-- CLASE AUN PENDIENTE
+- Clase en curso
 
-RECOMENDACIONES
+Recomendaciones 
 -------------
 - La rama master o main normalmente esta bloqueada (rama que se subira al servidor de produccion)
 - La rama de testing se le conoce como Staging Develop (rama que se subira al servidor de pruebas)
